@@ -1,0 +1,11 @@
+<Resolution>5</Resolution>
+<Canny_Th1>39.525001526</Canny_Th1>
+<Canny_Th2>1.274999976</Canny_Th2>
+<ATh_Max_Value>147</ATh_Max_Value>
+<Ath_Block_Size>20</Ath_Block_Size>
+<Th1>81.599998474</Th1>
+<Th2>52.274997711</Th2>
+<Point_Skip>3</Point_Skip>
+<Noise_Amount>14.600000381</Noise_Amount>
+<Real_Colors>1</Real_Colors>
+<Color_Alpha>0</Color_Alpha>
