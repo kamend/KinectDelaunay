@@ -1,6 +1,8 @@
 Kinect Delaunay Triangulation experiment
 ----------------------------------------
 
+![alt text](https://raw.github.com/kamend/KinectDelaunay/master/screen.png "Screenshot")
+
 Demo: 
 
 Required Addons: 
